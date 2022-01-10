@@ -19,3 +19,15 @@ Felipe Matheus de Souza.....
 <br>
 Praticante jiu Jitsu 🟦🟦🟦⬛⬛🟦🟦<br>
 Estudando !!!
+'C'
+'Python'
+'Java'
+'React'
+'Angular'
+'Android'
+'Flutter '
+'Oracle'
+'Html'
+'Css'
+'JavaScript'
+'Nodejs'
