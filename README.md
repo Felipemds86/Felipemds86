@@ -31,3 +31,10 @@ Estudando !!!<br>
 'Css'
 'JavaScript'
 'Nodejs'
+<br>
+Atualmente  trabalho como barman !!
+<br>
+Apaixonado por Tecnologia....
+
+<br>
+Há Procura de um Estágio de Desenvolvimento.
