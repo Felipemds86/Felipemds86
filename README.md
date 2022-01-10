@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Felipe Matheus de Souza.....
 <br>
 Praticante jiu Jitsu 🟦🟦🟦⬛⬛🟦🟦<br>
-Estudando !!!
+Estudando !!!<br>
 'C'
 'Python'
 'Java'
