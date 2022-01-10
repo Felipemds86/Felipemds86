@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 Felipe Matheus de Souza.....
 <br>
 Formado em Fisioterapia .
+<br>
 Praticante jiu Jitsu 🟦🟦🟦⬛⬛🟦🟦<br>
 <br>
-Sistemas da Infor  5º semestre   
+Sistemas da Infor  5º semestre 
+<br>
 Estudando !!!<br>
 'C'
 'Python'
