@@ -43,3 +43,5 @@ Apaixonado por Tecnologia....
 
 <br>
 Há Procura de um Estágio de Desenvolvimento.
+<br>
+https://www.linkedin.com/in/felipe-matheus-de-souza-aa68581ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPqIwyUtrTKS5EJ5JLYJRcA%3D%3D
