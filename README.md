@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Felipe Matheus de Souza.....
 <br>
-Formado em Fisioterapia .
+Formado em Fisioterapia 👨‍⚕️.
 <br>
-Praticante jiu Jitsu 🟦🟦🟦⬛⬛🟦🟦<br>
+Praticante jiu Jitsu 🟪🟪🟪🟪🟪⬛⬛🟪🟪 <br>
 <br>
-Sistemas da Infor  6º semestre 
+Sistemas da Informação.. 6º semestre 👨‍💻
 <br>
 Estudando !!!<br>
 'C'
