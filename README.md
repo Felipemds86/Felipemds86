@@ -21,7 +21,7 @@ Formado em Fisioterapia .
 <br>
 Praticante jiu Jitsu 🟦🟦🟦⬛⬛🟦🟦<br>
 <br>
-Sistemas da Infor  5º semestre 
+Sistemas da Infor  6º semestre 
 <br>
 Estudando !!!<br>
 'C'
