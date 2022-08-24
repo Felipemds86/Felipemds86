@@ -36,12 +36,14 @@ Estudando !!!<br>
 'Css'
 'JavaScript'
 'Nodejs'
+'Suporte Tecnico'
 <br>
-Atualmente  trabalho como barman !!
+Atualmente  trabalho como Barman !!
+<br>
 <br>
 Apaixonado por Tecnologia....
 
 <br>
-Há Procura de um Estágio de Desenvolvimento.
+Há Procura de um Estágio de Desenvolvimento, Suporte tecnico.
 <br>
 https://www.linkedin.com/in/felipe-matheus-de-souza-aa68581ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPqIwyUtrTKS5EJ5JLYJRcA%3D%3D
