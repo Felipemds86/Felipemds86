@@ -38,6 +38,8 @@ Estudando !!!<br>
 'Nodejs'
 'Suporte Tecnico'
 <br>
+
+<br>
 Atualmente  trabalho como Barman !!
 <br>
 <br>
