@@ -21,8 +21,11 @@ Formado em Fisioterapia 👨‍⚕️.
 <br>
 Praticante jiu Jitsu 🟪🟪🟪🟪🟪⬛⬛🟪🟪 <br>
 <br>
-Sistemas da Informação.. 6º semestre 👨‍💻
+Sistemas da Informação. Formado em 2023  👨‍💻
 <br>
+Cursando Pós Graduação em Segurança da Informação ( Universidade Anhembi Morumbi ) 
+
+<br> 
 Estudando !!!<br>
 'C'
 'Python'
@@ -46,6 +49,6 @@ Atualmente  trabalho como Barman !!
 Apaixonado por Tecnologia....
 
 <br>
-Há Procura de um Estágio de Desenvolvimento, Suporte tecnico.
+Há Procurando emprego como Analista de Segurança da Infomração , Analista de Infraestrutura , Suporte tecnico.
 <br>
 https://www.linkedin.com/in/felipe-matheus-de-souza-aa68581ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPqIwyUtrTKS5EJ5JLYJRcA%3D%3D
