@@ -23,27 +23,32 @@ Praticante jiu Jitsu 🟪🟪🟪🟪🟪⬛⬛🟪🟪 <br>
 <br>
 Sistemas da Informação. Formado em 2023  👨‍💻
 <br>
+<br>
 Cursando Pós Graduação em Segurança da Informação ( Universidade Anhembi Morumbi ) 
 
+Cursos 
 <br> 
-Estudando !!!<br>
-'C'
+CISSP 
+<Br> 
+Fundamentos e Gestão da Segurança da Informação 
+<br>
+Metodologias Ageis 
+<br>
+Inteligencia Artificial 
+<br>
+SQl 
+<br>
+CyberSecurity 
+<br> 
+Segurança em Nuvem 
+<br> 
 'Python'
-'Java'
-'React'
-'Angular'
-'Android'
-'Flutter '
-'Oracle'
-'Html'
-'Css'
-'JavaScript'
-'Nodejs'
+<br> 
 'Suporte Tecnico'
 <br>
 
 <br>
-Atualmente  trabalho como Barman !!
+
 <br>
 <br>
 Apaixonado por Tecnologia....
